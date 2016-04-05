@@ -14,5 +14,6 @@ and open the template in the editor.
         print("Supeinsdfsfninsdcsdcdsr !");
         ?>
     </body>
+    <div>Viande</div>
     <p>Test</p>
 </html>
