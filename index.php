@@ -14,4 +14,5 @@ and open the template in the editor.
         print("Super !");
         ?>
     </body>
+    <p>Test</p>
 </html>
