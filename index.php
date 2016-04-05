@@ -16,4 +16,5 @@ and open the template in the editor.
     </body>
     <div>Viande</div>
     <p>Test</p>
+    <div>Super !!</div>
 </html>
