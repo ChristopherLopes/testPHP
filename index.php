@@ -15,4 +15,5 @@ and open the template in the editor.
         ?>
     </body>
     <p>Test</p>
+    <div>Super !</div>
 </html>
